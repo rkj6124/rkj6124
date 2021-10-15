@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rkj6124
 - 👀 I’m interested in contributing to open source projects
-- 🌱 I’m currently learning Solr
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me at rkjproton@gmail.com
 
